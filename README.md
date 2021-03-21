@@ -16,3 +16,7 @@
 6. finally, save your docker container in your selected directory using 'docker save testapp > testapp.tar' 
 
 ![image](https://user-images.githubusercontent.com/56518821/111897346-d0eb3380-89f5-11eb-800a-16806561c3f3.png)
+
+With 5 years experience, and an 8 test score and interview score, the expected salary is ~64k
+![image](https://user-images.githubusercontent.com/56518821/111921844-30d0f100-8a6d-11eb-8b9b-c6dcee464997.png)
+
