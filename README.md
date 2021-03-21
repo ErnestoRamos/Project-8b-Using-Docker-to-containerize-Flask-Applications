@@ -10,3 +10,8 @@
  - we then run the requirements.txt file which contains the version of the packages used in your app.py
  - we expose port 5000 since this will be the port on the local computer being used 
  - state an entry point and command which allows the application to run  
+4. on your linux terminal, we have to build the container using: 'docker build -t testapp:latest .'
+ - note that testapp can be any name
+5. we then use docker-compose up to start the container and then go to localhost:5000 to view your API
+
+![image](https://user-images.githubusercontent.com/56518821/111897346-d0eb3380-89f5-11eb-800a-16806561c3f3.png)
